@@ -1,4 +1,4 @@
-package com.hello.rickkyyapps;
+package com.example.dimsaap;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.hello.rickkyyapps", appContext.getPackageName());
+        assertEquals("com.example.dimsaap", appContext.getPackageName());
     }
 }

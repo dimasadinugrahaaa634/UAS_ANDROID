@@ -1,4 +1,4 @@
-package com.hello.rickkyyapps;
+package com.example.dimsaap;
 
 import org.junit.Test;
 
